@@ -1,5 +1,3 @@
-### Bikepacking transalp
-
 ## Kleidung
 
 ### Auf dem Fahrrad
@@ -43,8 +41,6 @@
 
 ## Equipment
 
-### Auf dem Fahrrad
-
 * Licht
 	* vorne
 	* hinten
@@ -52,8 +48,6 @@
 * Herzfrequenzmesser
 
 ### Ersatzteile
-
-#### Auf dem Rad
 
 * Ersatzschlauch
 * Kettenglieder
