@@ -5,23 +5,19 @@
 ### Auf dem Fahrrad
 
 * Helm
-* Socken (mind. 2 Paare)
+* Socken
 * Radschuhe
 * Beinlinge
-* Füßlinge
+* Armlinge
 * Überschuhe
 * Kappe/Mütze
 * Schlauchschal (Buff)
 * Regenjacke
 * Wind-Weste
-* Warme Jacke
 * Brille
-* Bib-Shorts (2x)
-* Trikots (2x)
-* Trikot lang (1x)
+* Bibs
+* Trikots
 * Handschuhe
-  * Kurz
-  * Lang
 * Base layer
 
 
@@ -29,8 +25,8 @@
 
 * Unterwäsche
 * Schuhe
-* Badesachen (Optional)
-* T-Shirt (2x)
+* Badesachen
+* T-Shirt
 * Pulli
 * Hose
 
@@ -42,16 +38,8 @@
 * Zahnbürste
 * Zahnpasta
 * Insektenschutzmittel
-* Shampoo (kleine Flasche)
-* Labello
-* Deo
-* Rasierer
-* Kontaktlinsen
-	* Tageslinsen
-	* Reinigungsflüßigkeit
-	* Kontaktlinsenbehälter
-* Brille
-* Chamois-Creme (Optional)
+* Shampoo
+* Chamois-Creme
 
 ## Equipment
 
@@ -61,25 +49,18 @@
 	* vorne
 	* hinten
 * Fahrradcomputer
-* Wasserflaschen (2x)
+* Herzfrequenzmesser
 
 ### Ersatzteile
 
 #### Auf dem Rad
 
 * Ersatzschlauch
-* Kettenglieder (2x)
-* Flickzeug
-* Isolierband (kleines Stück)
+* Kettenglieder
 * Tubeless tool + plugs
 * Multitool
-* Kabelbinder
+* Flüssigwachs
 
-#### Im Begleitfahrzeug
-
-* Kettenschmiermittel
-* Ersatz-Reifen (optional)
-* Ersatzschlauch
 
 ## Sonstiges
 
@@ -87,16 +68,11 @@
 * Powerbank
 * Ladegerät
 * USB-Kabel
-  * USB-c
+  * USB-C
   * µUSB
-  * Garmin-Uhr-(Kabel/Adapter)
-* Riegel/Elektrolytlösung/Gels
-* Herzfrequenzmesser
+  * Uhr-(Kabel/Adapter)
+  * SRAM Akku Ladegerät
+* Isotonische Carb Mische
+* Batterie CR2032 
 
-## Packtaschen
-
-* Toptube
-* Rahmentasche
-* Lenkertasche
-* Satteltasche
 
